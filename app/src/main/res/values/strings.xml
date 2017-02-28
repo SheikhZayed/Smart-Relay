@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Smart Relay</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="button_submit">submit</string>
+    <string name="parameter_missing">parameter missing</string>
+    <string name="loading">Please wait,while relay state is being switched</string>
+    <string name="logout">Logout</string>
+</resources>
